@@ -30,10 +30,6 @@ button:hover{
     background-color: #312844;
 }
 
-.container{
-    max-width: 1400px;
-    margin: auto;
-}
 
 header .container{
     background-color:#362948;
